@@ -52,3 +52,32 @@ mahsulotlar va materiallar bilan bog'liq omborlarni boshqarish uchun mahsulotlar
 ## URLs
 
 - `` - Omborlar ro'yxati uchun
+
+- # Mahsulotlar ro'yxati
+
+Bu qismda mahsulotlar va ularning ombor ma'lumotlari ko'rsatilgan.
+
+## Mahsulotlar
+
+### Kompyuter
+
+- Miqdori: 10 ta
+- Materiallar:
+  - **Protsessor**
+    - Ombor IDsi: 1
+    - Miqdori: 1
+    - Narxi: $500.0
+  - **Monitor**
+    - Ombor IDsi: 2
+    - Miqdori: 1
+    - Narxi: $200.0
+
+### Telefon
+
+- Miqdori: 20 ta
+- Materiallar:
+  - **Ekran**
+    - Ombor IDsi: 3
+    - Miqdori: 1
+    - Narxi: $100.0
+
